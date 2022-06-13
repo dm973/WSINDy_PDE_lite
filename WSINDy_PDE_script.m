@@ -1,6 +1,6 @@
 %% load data
 
-load('data/burgers.mat')
+load('burgers.mat')
 
 coarsen_data = [[0 1 1];[0 1 1]];
 Shift = [];
